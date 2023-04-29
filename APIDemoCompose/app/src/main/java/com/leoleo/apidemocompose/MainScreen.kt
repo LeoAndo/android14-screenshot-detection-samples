@@ -69,12 +69,12 @@ private fun MainScreenStateless(
 
 @PreviewPhoneDevice
 @Composable
-private fun Perv_MainScreen_flagSecure_true() {
+private fun Prev_MainScreen_flagSecure_true() {
     MainScreenStateless(flagSecure = true, onCheckedChange = {}, screenshotCount = 0)
 }
 
 @PreviewPhoneDevice
 @Composable
-private fun Perv_MainScreen_flagSecure_false() {
+private fun Prev_MainScreen_flagSecure_false() {
     MainScreenStateless(flagSecure = false, onCheckedChange = {}, screenshotCount = 1)
 }
