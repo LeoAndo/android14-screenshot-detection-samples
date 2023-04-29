@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">APIDemoKotlin</string>
+    <string name="format_str">Screenshot Total Count: %d</string>
+</resources>
