@@ -1,5 +1,7 @@
-# android14-screenshot-detection-samples
-API Demo App for screenshot-detection feature. (OS14+)
+# overview
+API Demo App for screenshot-detection feature. (OS14+)<br>
+[official document](https://developer.android.com/about/versions/14/features/screenshot-detection)<br>
+
 
 # How to Test
 
